@@ -18,9 +18,10 @@ NeuroStartUp — динамически развивающийся старта�
 
 
 ```
-css
+<style>
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
+</style>
 ```
